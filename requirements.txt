@@ -1,0 +1,12 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+transformers==4.43.1
+deepspeed==0.14.0
+bitsandbytes==0.42.0
+peft==0.11.1
+accelerate
+auto_gptq==0.7.1
+optimum==1.21.2
+tqdm
+
